@@ -25,16 +25,19 @@ Backend: Python 3.11 + Flask
 Frontend: React 18 + TypeScript
 Database: SQLite
 AI Integration: Claude AI
+
 ✨ Key Features
+
 📊 Track income and expenses in real-time
 🗂️ Categorize transactions (food, travel, bills, etc.)
 📈 Visual insights for better financial decisions
 🔐 Secure and structured data handling
 🤖 AI-powered insights for smarter spending (Claude AI)
 ✅ Fully tested with 31+ test cases
-🎯 Objective
 
+🎯 Objective
 To simplify personal finance management by providing users with a clear view of their spending habits and helping them make smarter financial decisions.
+
 ## Quick Start
 
 ### Backend
