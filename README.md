@@ -29,10 +29,15 @@ AI Integration: Claude AI
 ✨ Key Features
 
 📊 Track income and expenses in real-time
+
 🗂️ Categorize transactions (food, travel, bills, etc.)
+
 📈 Visual insights for better financial decisions
+
 🔐 Secure and structured data handling
+
 🤖 AI-powered insights for smarter spending (Claude AI)
+
 ✅ Fully tested with 31+ test cases
 
 🎯 Objective
