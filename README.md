@@ -12,7 +12,29 @@ A full-stack expense tracking app with AI-assisted categorization.
 ![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
 
 ---
+🚀 SpendWise — Expense Tracking Application
 
+SpendWise is a full-stack expense tracking web application designed to help users manage their finances efficiently. It allows users to track daily expenses, categorize spending, and gain insights through a simple and intuitive interface.
+
+🔍 Overview
+
+The application provides a seamless experience for recording, analyzing, and managing expenses. With a modern frontend and a lightweight backend, SpendWise ensures fast performance and easy usability.
+
+⚙️ Tech Stack
+Backend: Python 3.11 + Flask
+Frontend: React 18 + TypeScript
+Database: SQLite
+AI Integration: Claude AI
+✨ Key Features
+📊 Track income and expenses in real-time
+🗂️ Categorize transactions (food, travel, bills, etc.)
+📈 Visual insights for better financial decisions
+🔐 Secure and structured data handling
+🤖 AI-powered insights for smarter spending (Claude AI)
+✅ Fully tested with 31+ test cases
+🎯 Objective
+
+To simplify personal finance management by providing users with a clear view of their spending habits and helping them make smarter financial decisions.
 ## Quick Start
 
 ### Backend
