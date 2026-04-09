@@ -2,7 +2,14 @@
 
 A full-stack expense tracking app with AI-assisted categorization.
 
-**Stack:** Python 3.11 + Flask · React 18 + TypeScript · SQLite · Claude AI
+![Full Stack](https://img.shields.io/badge/Stack-Full%20Stack-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![Flask API](https://img.shields.io/badge/API-Flask-000000?logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/UI-React%2018-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/DB-SQLite-003B57?logo=sqlite&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI-Claude-6B21A8)
+![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
 
 ---
 
